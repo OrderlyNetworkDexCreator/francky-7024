@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/francky-7024/",
+  "VITE_SEO_SITE_URL": "https://torihikijo.com",
   "VITE_SEO_SITE_LANGUAGE": "jp",
   "VITE_SEO_SITE_LOCALE": "jp_JP",
   "VITE_SEO_TWITTER_HANDLE": "",
